@@ -4,9 +4,7 @@
 | Название проекта   | Используемые библиотеки   |
 | -------- | -------- |
 | [Анализ поведения пользователей в мобильном приложении](AnalysisMobileApp/Analysis_of_users_experience_in_mobile_app.ipynb)   | pandas, matplotlib, seaborn, datetime, timedelta, stats, math, plotly    |
-| Текст    | Текст    |
-| Текст    | Текст    |
-| Текст    | Текст    |
+| [Исследовательский анализ приложения](ResearchMobileApp/Research_mobile_app.ipynb)    | pandas, matplotlib, datetime, timedelta, numpy    |
 
 ## Об авторе
 * Выпускник курса "Аналитик данных" в Яндекс.Практикум, 2021 - 2022
